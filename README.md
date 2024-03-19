@@ -46,6 +46,7 @@ Miembros
 >>> Hemos escogido personas fuera del ámbito teatral y escénico pero con cierto interés en el tema y con diferentes características para enfocarla desde varios puntos de vista.
 
 ![Método UX](img/Julio.png)
+![Método UX](img/Silvia.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
