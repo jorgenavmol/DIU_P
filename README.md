@@ -1,7 +1,7 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU1-Jorses.  Curso: 2023/24 
 Updated: 11/2/2024
 
 Proyecto: 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Jose Francisco López Rubio     :octocat:     
+ * :bust_in_silhouette:  Jorge Navarro Molina     :octocat:
 
 ----- 
 
@@ -38,18 +38,20 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Queríamos escoger sitios web alejados de la zona de estudio para ver si en otros lugares también sucedían experiencias similares. Por ejemplo, hemos escogido la pagina de OFF ya que considerabamos que era una web digna de competir y con la que poder comparar debido a su diseño limpio y aspecto profesional, y no difería de lo que buscabamos analizar en nuestra web de referencia. 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Hemos escogido personas fuera del ámbito teatral y escénico pero con cierto interés en el tema y con diferentes características para enfocarla desde varios puntos de vista.
+
+(img/Julio.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Consideramos estas experiencias pues, en cuanto al trabajo se refiere, es común y lógico anteponerlo al ocio, y hemos querido basar a nuestras personas desde dicho ámbito para servir de ayuda a otros usuarios.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
