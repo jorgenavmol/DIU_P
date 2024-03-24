@@ -51,8 +51,10 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
 >>> Consideramos estas experiencias pues, en cuanto al trabajo se refiere, es común y lógico anteponerlo al ocio, y hemos querido basar a nuestras personas desde dicho ámbito para servir de ayuda a otros usuarios.
+
+![Metodo UX](img/JourneyMap1.png)
+![Metodo UX](img/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
