@@ -60,7 +60,7 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento: https://github.com/jorgenavmol/DIU_P/blob/master/P1/4%20-%20Usability%20Review/Usability-review-template.xlsx
 >>> - Valoración final (numérica): 63
 >>> - Comentario sobre la valoración: La valoracion final es medianamente acpetable, pero bastante mejorable en varios aspectos. Algunos de los puntos mas debiles de la página son el uso obligatorio de un menu interactivo auxiliar, cuya funcionalidad es bastante pobre y podria evitarse de distintas formas, la carencia de ayudas o guias para la navegación por la página web, la vaga organización de la información o la lenta velocidad de la pagina. Y algunos de los puntos mas fuertes de la página son el acceso al sitio web, es decir, es fácilmente encontrable, la claridad con la que se indica la información necesaria a introducir y la facilidad que tiene reservar/apuntarse a una actividad. Es pasable, pero la interfaz principal necesita un cambio urgentemente.
 
